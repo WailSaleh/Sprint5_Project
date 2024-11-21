@@ -1,4 +1,4 @@
-# Web Application for Car Sales Advertisements Distribution
+# Web Application for Car Sales Advertisements Distribution 🚗📈
 
 In this project, a dataset of car sales ads will be provided. However, the focus will not be on the dataset or the analysis, so any dataset can be chosen freely.
 
